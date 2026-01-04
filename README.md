@@ -1,81 +1,32 @@
-# Khushi Solanki - Portfolio Website
+# Hi, I'm Khushi Solanki 👋
 
-A modern, responsive portfolio website showcasing my web development skills and projects.
+I am a Mechanical Engineering student (Robotics Honours) from Dwarkadas J. Sanghvi College of Engineering, Mumbai.
 
-## 🌟 Features
+I am interested in mechanical design, robotics systems, prototyping, and learning by building and experimenting. I enjoy working on engineering projects that involve CAD design, basic electronics, and system-level thinking.
 
-- **Modern Design**: Clean, professional layout with beautiful gradients and animations
-- **Fully Responsive**: Optimized for all device sizes (desktop, tablet, mobile)
-- **Interactive Elements**: Smooth scrolling, hover effects, and scroll animations
-- **Contact Form**: Functional contact form with validation
-- **Mobile Navigation**: Hamburger menu for mobile devices
-- **Loading Animation**: Professional loading screen
-- **Scroll to Top**: Convenient scroll-to-top button
-- **Performance Optimized**: Fast loading and smooth animations
+## 🔧 Skills & Tools
+- CAD: SolidWorks, AutoCAD (part modeling, assemblies, drawings)
+- Manufacturing: CNC Lathe & Turning (basic hands-on exposure)
+- Robotics & IoT: Basics of sensors, actuators, microcontrollers
+- Analysis: Engineering drawings, basic design validation
+- Tools: MATLAB (basics), ANSYS (introductory exposure)
 
-## 🚀 Sections
+## 🛠️ Projects
+I have worked on academic and exploratory projects involving:
+- Mechanical design and CAD modeling
+- Concept-level robotics and system design
+- Research-oriented project planning and documentation
 
-1. **Hero Section**: Eye-catching introduction with call-to-action buttons
-2. **About Me**: Personal introduction with animated statistics
-3. **Skills**: Technology stack with interactive cards
-4. **Projects**: Featured projects showcase
-5. **Contact**: Contact form and social links
+(Some projects are at design and research stage and are documented here.)
 
-## 🛠️ Technologies Used
+## 🌱 Currently Learning
+- Design for Manufacturing (DFM)
+- Prototyping methods
+- Practical robotics system integration
+- Improving CAD and documentation skills
 
-- **HTML5**: Semantic markup and modern standards
-- **CSS3**: Advanced styling with CSS Grid, Flexbox, and animations
-- **JavaScript**: Interactive functionality and smooth user experience
-- **Font Awesome**: Professional icons
-- **Google Fonts**: Inter font family for modern typography
+## 📫 Contact
+- Email: khushisolanki2309@gmail.com
+- LinkedIn: https://www.linkedin.com/in/khushi-solanki23
 
-## 📱 Responsive Design
-
-The website is built with a mobile-first approach and includes:
-- Responsive navigation menu
-- Flexible grid layouts
-- Optimized typography scaling
-- Touch-friendly interactive elements
-
-## 🎨 Design Features
-
-- **Color Scheme**: Modern purple and pink gradients
-- **Typography**: Clean Inter font family
-- **Animations**: Smooth CSS transitions and JavaScript animations
-- **Layout**: CSS Grid and Flexbox for flexible layouts
-- **Icons**: Font Awesome icons for visual appeal
-
-## 📞 Contact Information
-
-- **Email**: khushisolanki2309@gmail.com
-- **GitHub**: [@Khushi23-sol](https://github.com/Khushi23-sol)
-- **Interested in**: Web Development
-- **Currently Learning**: Web Development Technologies
-
-## 🚀 Getting Started
-
-1. Open `index.html` in your web browser
-2. The website is ready to use - no build process required!
-3. Customize the content, colors, and projects to match your preferences
-
-## 📝 Customization
-
-To personalize the portfolio:
-
-1. **Update Personal Information**: Edit the text content in `index.html`
-2. **Add Your Projects**: Replace the placeholder projects with your actual work
-3. **Change Colors**: Modify the CSS variables in `styles.css`
-4. **Add Your Photo**: Replace the icon avatars with your actual photos
-5. **Update Links**: Add your real social media and project links
-
-## 🎯 Future Enhancements
-
-- Add a blog section
-- Integrate with a backend for the contact form
-- Add more project details and case studies
-- Implement dark mode toggle
-- Add testimonials section
-
----
-
-Built with ❤️ by Khushi Solanki
+I am actively looking for internships where I can learn, contribute, and grow as an engineer.
